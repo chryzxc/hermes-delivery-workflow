@@ -1,0 +1,8 @@
+name: delivery-gates
+version: 0.1.0
+manifest_version: 2
+api_version: 1
+description: Local-first, read-only delivery-gate validation for Hermes Agent.
+license: MIT
+homepage: https://github.com/chryzxc/hermes-delivery-gates
+tags: [git, delivery, verification, code-review, qa]
